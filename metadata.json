@@ -1,0 +1,6 @@
+{
+  "name": "Natasha - Mobile Web Novel Studio",
+  "description": "Exclusive mobile-first web novel writing studio and story bible by Lunarica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
