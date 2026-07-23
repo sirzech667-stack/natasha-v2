@@ -1,3 +1,8 @@
+/**
+ * @license
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 import React, { useState, useEffect } from 'react';
 import { Novel, AppSettings, LanguageCode, Chapter } from './types';
 import { loadSettings, saveSettings, loadNovels, saveNovels, resetAllStorage } from './utils/storageUtils';
@@ -383,4 +388,3 @@ export default function App() {
     </div>
   );
 }
-
